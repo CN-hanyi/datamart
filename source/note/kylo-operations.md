@@ -1,4 +1,4 @@
-# kylo部署
+# kylo VB 部署
 ## VirtualBox安装流程
 * 安装VirtualBox软件
 1. 安装4.x版本

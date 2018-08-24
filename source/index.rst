@@ -22,7 +22,9 @@ Welcome to data-market's documentation!
    meetting/2018-08-16
    meetting/cdh_hdp
    meetting/命名规范
-
+   meeting/8.20会议记录.md
+   meeting/8.22会议记录.md
+   meeting/8.23会议记录.md
 Indices and tables
 ==================
 

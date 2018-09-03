@@ -22,3 +22,4 @@
    note/kylo-issue
    meetting/8.29会议记录
    meetting/8.31会议记录
+   note/kylo-issue-accessory

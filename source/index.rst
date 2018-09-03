@@ -20,4 +20,4 @@
    meetting/8.24会议记录
    note/kylo_install
    note/kylo-issue
-   note/kylo-issue(accessory)
+   note/kylo-issue-accessory

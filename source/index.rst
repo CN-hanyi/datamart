@@ -18,3 +18,5 @@
    meetting/8.22会议记录
    meetting/8.23会议记录
    meetting/8.24会议记录
+   note/kylo_install
+   note/kylo-issue
